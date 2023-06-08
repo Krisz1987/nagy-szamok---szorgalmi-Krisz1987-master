@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "hu.progmatic.NagySzamokTest_longMaxValue",
+      "setup": "",
+      "run": "/usr/bin/true",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "hu.progmatic.NagySzamokTest_kisSzamokOsszeadas",
+      "setup": "",
+      "run": "/usr/bin/true",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "hu.progmatic.NagySzamokTest_intMaxSzorzas",
+      "setup": "",
+      "run": "/usr/bin/true",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "hu.progmatic.NagySzamokTest_intMaxOsszead",
+      "setup": "",
+      "run": "/usr/bin/true",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "hu.progmatic.NagySzamokTest_szazFaktorialis",
+      "setup": "",
+      "run": "/usr/bin/true",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "hu.progmatic.NagySzamokTest_egyszeruFaktorialisok",
+      "setup": "",
+      "run": "/usr/bin/true",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "hu.progmatic.NagySzamokTest_kisSzamokSzorzasa",
+      "setup": "",
+      "run": "/usr/bin/true",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "hu.progmatic.NagySzamokTest_longMaxOsszead",
+      "setup": "",
+      "run": "/usr/bin/true",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
